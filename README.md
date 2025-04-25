@@ -18,7 +18,14 @@ I focus on **Infrastructure as Code (IaC)**, **Kubernetes security**, **cloud co
 
 ## 📂 Featured Projects
 
-
+- 🔒 [**Secure Kubernetes Deployment with Terraform**](https://github.com/boomerg/secure-k8s-deployment)  
+   Deploying a hardened Kubernetes cluster with encryption, RBAC, and network policies.
+ 
+ - 🚀 [**DevSecOps CI/CD Pipeline Demo**](https://github.com/boomerg/devsecops-pipeline-demo)  
+   End-to-end CI/CD pipeline with container scanning, SAST, DAST integrated.
+ 
+ - ☁️ [**Cloud Compliance Checker (AWS)**](https://github.com/boomerg/cloud-compliance-checker)  
+   Automated tool to validate AWS accounts against CIS Benchmarks.
 
 ---
 
