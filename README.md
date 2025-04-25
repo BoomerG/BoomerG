@@ -53,7 +53,6 @@ I focus on **Infrastructure as Code (IaC)**, **Kubernetes security**, **cloud co
 ## 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/rob-gibson7](https://linkedin.com/in/rob-gibson7)
-- GitHub: [github.com/boomerg](https://github.com/boomerg)
 
 ---
 
