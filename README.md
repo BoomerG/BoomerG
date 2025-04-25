@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Robert Gibson
+# Hi, I'm Robert Gibson
 
 I'm a **DevOps & Security Engineer** passionate about building secure, automated, and scalable cloud-native environments.  
 I focus on **Infrastructure as Code (IaC)**, **Kubernetes security**, **cloud compliance**, and **DevSecOps automation**.
