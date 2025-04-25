@@ -1,4 +1,5 @@
-# Robert Gibson
+<img src="assets/github_banner.png" alt="Robert Gibson GitHub Banner" style="width:100%;"/>
+
 
 I'm a **DevOps & Security Engineer** passionate about building secure, automated, and scalable cloud-native environments.  
 I focus on **Infrastructure as Code (IaC)**, **Kubernetes security**, **cloud compliance**, and **DevSecOps automation**.
