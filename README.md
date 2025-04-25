@@ -1,4 +1,4 @@
-<img src="assets/github_banner.png" alt="Robert Gibson GitHub Banner" style="width:100%;"/>
+<img src="assets/github_banner.png" alt="Robert Gibson GitHub Banner" style="width:100%; height:50%"/>
 
 
 I'm a **DevOps & Security Engineer** passionate about building secure, automated, and scalable cloud-native environments.  
