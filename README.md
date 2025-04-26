@@ -18,7 +18,7 @@ I focus on **Infrastructure as Code (IaC)**, **Kubernetes security**, **cloud co
 
 ## 📂 Featured Projects
 
-- 🔒 [**GitOps + Secure Kubernetes Deployment**]([https://github.com/BoomerG/projects/secure-k8s-deployment](https://github.com/BoomerG/projects/tree/64b0d48a718341eba71e8ff21a5661f921194613/secure-k8s-deployment))  secure-k8s-deployment
+- 🔒 [**GitOps + Secure Kubernetes Deployment**](https://github.com/BoomerG/projects/tree/64b0d48a718341eba71e8ff21a5661f921194613/secure-k8s-deployment) 
   Deploy a production-grade Kubernetes cluster using GitOps workflows and security best practices.
 
 - 🚀 [**CI/CD Pipeline with Security Gates**](https://github.com/BoomerG/projects/devsecops-pipeline-demo)  
