@@ -21,10 +21,10 @@ I focus on **Infrastructure as Code (IaC)**, **Kubernetes security**, **cloud co
 - 🔒 [**GitOps + Secure Kubernetes Deployment**](https://github.com/BoomerG/projects/tree/64b0d48a718341eba71e8ff21a5661f921194613/secure-k8s-deployment) 
   Deploy a production-grade Kubernetes cluster using GitOps workflows and security best practices.
 
-- 🚀 [**CI/CD Pipeline with Security Gates**](https://github.com/BoomerG/projects/devsecops-pipeline-demo)  
+- 🚀 [**CI/CD Pipeline with Security Gates**](https://github.com/BoomerG/projects/tree/64b0d48a718341eba71e8ff21a5661f921194613/devsecops-pipeline-demo)  
   Build a CI/CD pipeline that includes automated security scanning (SAST, DAST, secret detection) on every commit.
 
-- ☁️ [**Infrastructure as Code: Multi-tier Web App Deployment**](https://github.com/BoomerG/projects/cloud-infra-deployment)  
+- ☁️ [**Infrastructure as Code: Multi-tier Web App Deployment**](https://github.com/BoomerG/projects/tree/64b0d48a718341eba71e8ff21a5661f921194613/cloud-infra-deployment)  
   Provision a scalable multi-tier application infrastructure in AWS or Azure using Terraform.
 
 ---
